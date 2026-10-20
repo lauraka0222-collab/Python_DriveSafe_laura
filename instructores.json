@@ -1,0 +1,12 @@
+[
+    {
+        "documento": "1234567",
+        "nombre": "Carlos",
+        "especialidad": "moto"
+    },
+    {
+        "documento": "123434",
+        "nombre": "Elian",
+        "especialidad": "carro"
+    }
+]

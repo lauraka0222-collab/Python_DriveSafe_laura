@@ -1,0 +1,39 @@
+[
+    {
+        "codigo": "CITA-0001",
+        "cliente": "123456",
+        "instructor": "123434",
+        "placa": "HTM245",
+        "fecha": "2027-09-12",
+        "hora": "09:00",
+        "duracion": 120,
+        "asistencia": null,
+        "observaciones": ""
+    },
+    {
+        "codigo": "CITA-0002",
+        "cliente": "123456",
+        "instructor": "123434",
+        "placa": "HTM245",
+        "tipo_vehiculo": "carro",
+        "fecha": "2026-11-23",
+        "hora": "09:12",
+        "duracion": 60,
+        "asistencia": null,
+        "observaciones": ""
+    },
+    {
+        "cliente": "laura mendez",
+        "instructor": "123434",
+        "vehiculo": "moto",
+        "fecha": "2026-10-08",
+        "hora": "12:57"
+    },
+    {
+        "cliente": "LAURA",
+        "instructor": "343434",
+        "vehiculo": "MOTO",
+        "fecha": "2026-10-12",
+        "hora": "15:50"
+    }
+]

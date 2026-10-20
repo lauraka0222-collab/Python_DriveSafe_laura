@@ -1,0 +1,27 @@
+[
+    {
+        "documento": "1099422302",
+        "nombre": "Laura Mendez",
+        "tipo_vehiculo": "moto"
+    },
+    {
+        "documento": "123456",
+        "nombre": "Camilo",
+        "tipo_vehiculo": "carro"
+    },
+    {
+        "documento": "1234567",
+        "nombre": "Richard",
+        "tipo_vehiculo": "moto"
+    },
+    {
+        "documento": "6543241",
+        "nombre": "Emanuel",
+        "tipo_vehiculo": "carro"
+    },
+    {
+        "documento": "3456789",
+        "nombre": "Sara",
+        "tipo_vehiculo": "moto"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "placa": "HTM245",
+        "tipo": "carro",
+        "disponible": true
+    },
+    {
+        "placa": "TLM123",
+        "tipo": "moto",
+        "disponible": true
+    },
+    {
+        "placa": "WER678",
+        "tipo": "moto",
+        "disponible": true
+    },
+    {
+        "placa": "YOJ456",
+        "tipo": "carro",
+        "disponible": false
+    }
+]
